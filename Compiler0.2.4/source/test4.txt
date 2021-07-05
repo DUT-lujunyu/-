@@ -1,0 +1,13 @@
+{
+	float a  = 1;
+	float b = 0;
+	float c = 31.4e-1;
+	while(c>a)
+	{
+		while(b<5.2)
+		{
+			b = b +1;
+		}
+		c = c - 1;
+	}
+}

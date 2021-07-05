@@ -1,0 +1,22 @@
+﻿  源.cpp
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(368): warning C4018: “<”: 有符号/无符号不匹配
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(648): warning C4018: “<”: 有符号/无符号不匹配
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(844): warning C4018: “<=”: 有符号/无符号不匹配
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1226): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1235): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1383): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1387): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1388): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1420): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1424): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1425): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1514): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1505): warning C4101: “rightv”: 未引用的局部变量
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1613): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1604): warning C4101: “rightv”: 未引用的局部变量
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1639): warning C4101: “n”: 未引用的局部变量
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(1669): warning C4101: “n”: 未引用的局部变量
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(2385): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\入木三分\acd\编译原理\unityproject\c++源代码文件\cppproject\cppproject\源.cpp(2644): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  cppProject.vcxproj -> E:\入木三分\acd\编译原理\UnityProject\c++源代码文件\cppProject\Debug\cppProject.exe

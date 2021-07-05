@@ -1,0 +1,16 @@
+{
+	float a  = 1;
+	float b = 0;
+	float c = 31.4e-1;
+	if(c>a)
+	{
+		while(b < 10)
+		{
+			b = b+1;
+		}
+	}
+	else
+	{
+		b = 100;
+	}
+}

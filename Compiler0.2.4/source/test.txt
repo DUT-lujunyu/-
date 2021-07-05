@@ -1,0 +1,22 @@
+{
+	float a  = 1;
+	float b = 0;
+	float c = 31.4e-1;
+	a = b+c+3.53;
+	if(!b)
+	{
+		a = 11;
+	}
+	else
+	{
+		a = 22;
+	}
+	while((a>b)&&!b)
+	{
+		b = a+1;
+	}
+	while((c>b)||(c>a))
+	{
+		c = c-1;
+	}	
+}

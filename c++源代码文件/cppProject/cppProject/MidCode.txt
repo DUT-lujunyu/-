@@ -1,0 +1,11 @@
+Line 1	生成声明变量:a = 1.000000	
+Line 2	生成声明变量:b = 0.000000	
+Line 3	生成声明变量:c = 3.140000	
+Line 4	生成中间变量:t0 = 1	
+Line 5	假转指令无效,顺序执行下一条命令
+Line 6	生成中间变量:t1 = 1	
+Line 7	假转指令无效,顺序执行下一条命令
+Line 8	更新变量:b = 10.000000	
+Line 9	执行直转指令,跳转到Line 12
+Line 12	执行直转指令,跳转到Line 15
+ Interpretive Routine Complete!

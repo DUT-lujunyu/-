@@ -1,0 +1,5 @@
+{
+	float a  = 1;
+	float b = 0;
+	float c = 31.;
+}

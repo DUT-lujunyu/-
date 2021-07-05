@@ -1,0 +1,20 @@
+{
+	float a  = 1;
+	float b = 0;
+	float c = 31.4e-1;
+	if(c>a)
+	{
+		if(a>b)
+		{
+			b = 10;
+		}
+		else
+		{
+			a = 10;
+		}
+	}
+	else
+	{
+		c = 10;
+	}
+}

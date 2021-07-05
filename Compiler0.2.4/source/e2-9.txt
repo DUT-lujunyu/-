@@ -1,0 +1,7 @@
+{
+	float a  = 1;
+	float b = 0;
+	float c = 31.4e-1;
+	a  b+c;
+
+}
